@@ -1,0 +1,9 @@
+# dependencies
+node_modules
+
+# env file
+.env
+
+#uploads folder
+
+uploads
